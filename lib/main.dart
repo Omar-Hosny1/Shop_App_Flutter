@@ -72,3 +72,10 @@ class MyApp extends StatelessWidget {
  * 2 - wrap the root widget with this widget => ChangeNotifierProvider
  * 3 - on the listener widget you should use Provider.of<Products>(context)
  * */
+
+/**
+ * Steps to send requests to the server
+ * 1 - download and import the http package.
+ * 2 - transform your API using URI.https .
+ * 3 - then http.{operation => POST, PUT, DELETE, PATCH} .
+ * */
