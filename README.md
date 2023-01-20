@@ -1,7 +1,7 @@
 # shop_app
-This project is a comprehensive shopping application that provides users with an easy and convenient way to purchase products. The following are the key features of the app:
+### This project is a comprehensive shopping application that provides users with an easy and convenient way to purchase products. The following are the key features of the app:
 
-Product Management: Users can add and remove products from their cart with ease.
+-- Product Management: Users can add and remove products from their cart with ease.
 
 Responsive Design: The app is designed to adapt to different screen sizes, providing an optimal viewing experience on any device.
 
